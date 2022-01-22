@@ -1,3 +1,5 @@
+
+
 const rpcGenerator = require("discordrpcgenerator");
 module.exports = (client) => {
 
@@ -27,3 +29,4 @@ module.exports = (client) => {
 
   console.log(("RPC enabled successfully"))
 }
+
