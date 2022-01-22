@@ -45,10 +45,10 @@ RUN
 
 # Credits
 
-__DarkShadow (Shadoow159258#4769)__
+__DarkShadow(Shadoow159258#4769)__
 
-[**Youtube Channel**] (https://www.youtube.com/channel/UC4zkPH1ticImcO4-fjM2pZA)
+[**Youtube Channel**](https://www.youtube.com/channel/UC4zkPH1ticImcO4-fjM2pZA)
 
 And
 
-[Mewzax (Slow)] (https://github.com/Mewzax)
+[Mewzax (slow)](https://github.com/Mewzax)
