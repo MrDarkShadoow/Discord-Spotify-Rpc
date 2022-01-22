@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v11": "^11.5.1",
+    "discordrpcgenerator": "^1.2.0",
+    "express": "^4.17.1"
+  },
+  "name": "discord-spotify-rpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDarkShadoow/DIscord-Spotify-Rpc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MrDarkShadoow/DIscord-Spotify-Rpcissues"
+  },
+  "homepage": "https://github.com/MrDarkShadoow/DIscord-Spotify-Rpc#readme",
+  "description": ""
+}
