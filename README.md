@@ -33,11 +33,11 @@ RUN
 
 # Sites
 
-[**Epoch**] (https://www.epochconverter.com)
+[**Epoch**](https://www.epochconverter.com)
 
-[**Get Playlist Cover Image Spotify**] (https://developer.spotify.com/console/get-playlist-images/)
+[**Get Playlist Cover Image Spotify**](https://developer.spotify.com/console/get-playlist-images/)
 
-[**Spotify**] (https://open.spotify.com/)
+[**Spotify**](https://open.spotify.com/)
 
 # Exemple RPC
 
@@ -47,8 +47,8 @@ RUN
 
 __DarkShadow(Shadoow159258#4769)__
 
-[**Youtube Channel**] (https://www.youtube.com/channel/UC4zkPH1ticImcO4-fjM2pZA)
+[**Youtube Channel**](https://www.youtube.com/channel/UC4zkPH1ticImcO4-fjM2pZA)
 
 And
 
-[Mewzax(Slow)] (https://github.com/Mewzax)
+[Mewzax (slow)](https://github.com/Mewzax)
