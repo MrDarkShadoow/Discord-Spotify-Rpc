@@ -1,10 +1,9 @@
 const express = require('express')
 const server = express();
 
-server.all('/', (req, res)=>{
-    res.send("YOUR RPC IS READY")
-})
-
+server.get('/', (req, res) => {
+  res.sendFile(__dirname + '/mysite.html');
+});
 function keepAlive(){
     server.listen(process.env.PORT, ()=>{console.log("RPC IS READY")});
 }
