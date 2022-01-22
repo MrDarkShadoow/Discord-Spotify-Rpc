@@ -20,7 +20,7 @@ module.exports = (client) => {
   console.log(presence.toDiscord())
 
 
-  client.user.setStatus("online"); //status accont(online, idle and dnd.)
+  client.user.setStatus("online"); //status account(online, idle and dnd.)
 
 
   client.user.setPresence(presence.toDiscord()).catch(console.error);
