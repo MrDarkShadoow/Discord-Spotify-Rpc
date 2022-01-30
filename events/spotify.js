@@ -9,6 +9,10 @@ module.exports = (client) => {
     .setState("Artist") // Artist
 
     .setAssetsLargeImage("spotify:")// Go to Readme.md
+    .setAssetsLargeText("")
+
+    .setAssetsSmallImage("spotify:")// Go to Readme.md
+    .setAssetsSmallText("")
 
 
     .setStartTimestamp(Date.now()) // remember to use a number WITHOUT QUOTES and an Epoch value https://www.epochconverter.com
