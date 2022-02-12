@@ -15,9 +15,9 @@ module.exports = (client) => {
     .setAssetsSmallText("")
 
 
-    .setStartTimestamp(Date.now()) // remember to use a number WITHOUT QUOTES and an Epoch value https://www.epochconverter.com
+    .setStartTimestamp("" || Date.now()) // remember to use a number WITHOUT QUOTES and an Epoch value https://www.epochconverter.com
 
-    .setEndTimestamp(Date.now()) // remember to use a number WITHOUT QUOTES and an [Epoch value] (https://www.epochconverter.com)
+    .setEndTimestamp("" || Date.now())// remember to use a number WITHOUT QUOTES and an [Epoch value] (https://www.epochconverter.com)
 
 
 
