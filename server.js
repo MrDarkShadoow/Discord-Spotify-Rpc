@@ -2,7 +2,7 @@ const express = require('express')
 const server = express();
 
 server.all("/", (req, res) => {
-  res.send('<meta http-equiv="refresh" content="0; URL=https://darkshadoow159258.github.io"/>')
+  res.send('<meta http-equiv="refresh" content="0; URL=https://mrdarkshadoow.github.io"/>')
 })
 
 function keepAlive() {
