@@ -19,6 +19,8 @@ module.exports = (client) => {
 
     .setEndTimestamp("" || Date.now())// remember to use a number WITHOUT QUOTES and an [Epoch value] (https://www.epochconverter.com)
 
+    .setSyncId("")
+
 
 
   console.log(presence.toDiscord())
